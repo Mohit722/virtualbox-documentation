@@ -17,7 +17,7 @@ This repository contains the following documentation files, each addressing diff
 - [configuring-network-settings.md](configuring-network-settings.md): Instructions for configuring network settings to ensure effective communication between your host and guest systems.
 
 - [adjusting-resource-allocation.md](adjusting-resource-allocation.md): A guide to optimizing the performance of your virtual machines by adjusting CPU, memory, and storage resources.
--  [virtualbox-devops-and-automation.md](virtualbox-devops-and-automation.md) If the current content in advanced-configuration-and-troubleshooting.md already covers a large portion of troubleshooting, and the new content you're adding is mostly about DevOps workflows and best practices.
+- [virtualbox-devops-and-automation.md](virtualbox-devops-and-automation.md)  In the current content in advanced-configuration-and-troubleshooting.md already covers a large portion of troubleshooting, and the new content you're adding is mostly about DevOps workflows and best practices.
 
 
 # Purpose of this Repository
