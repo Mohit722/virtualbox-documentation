@@ -95,13 +95,13 @@ This command should return the version number of VirtualBox. If it doesn't, ensu
 
 # Steps to Resize a VDI File
 
-# Step 1: Open Command Prompt
+ Step 1: Open Command Prompt
 
 1. Click on the Start menu.
 2. Type `cmd`, right-click on Command Prompt, and select Run as administrator.
 
 
-# Step 2: Run the Resize Command
+ Step 2: Run the Resize Command
 
 Replace "C:\Users\Admin\VirtualBox VMs\centtos\centtos.vdi" with the actual path to your VDI file and run the following command to resize the VDI to 40 GB (40960 MB):
 
