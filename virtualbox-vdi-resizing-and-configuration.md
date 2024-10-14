@@ -46,12 +46,12 @@ Before proceeding with the resizing process, it’s recommended to set up the en
 
 # Step 1: Set Environment Variable
 
-1. Open System Properties:
+* 1. Open System Properties:
    - Right-click on This PC or My Computer and select Properties.
    - Click on Advanced system settings on the left sidebar.
    - Click on the Environment Variables button.
 
-2. Add New System Variable:
+* 2. Add New System Variable:
    - Under System variables, click on New.
    - Set the variable name as: `VIRTUALBOX_HOME`
    - Set the variable value as the path to your VirtualBox installation, typically:  C:\Program Files\Oracle\VirtualBox 
